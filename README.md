@@ -8,8 +8,9 @@ Ultimately, leveraging machine learning for EV startup segmentation yields a com
 Objectives:
 Identify Optimal EV Type: Determine the ideal electric vehicle (EV) model for launch by analyzing market trends, consumer preferences, and technological feasibility.
 Segment Customer Base: Utilize machine learning to identify distinct customer segments within the EV market based on demographics, behavior, and psychographics.
-Dataset:
-https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india
+
+
+Dataset: https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india
 
 This dataset comprises information on charging stations operational across India. 
 It encompasses data on states, cities, and precise addresses of each charging station, along with latitude and longitude coordinates pinpointing their locations. 
